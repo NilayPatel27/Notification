@@ -5,6 +5,7 @@ Step - 1 :
         
 Step – 2 :
         Add this line in …android/build.gradle :
+        
          dependencies {
                 classpath("com.android.tools.build:gradle:7.0.4")
                 classpath("com.facebook.react:react-native-gradle-plugin")

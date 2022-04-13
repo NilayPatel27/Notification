@@ -1,4 +1,4 @@
-FCM NOTIFICAITON
+FCM NOTIFICATION
 
 Step - 1 :
         Create project using – npx react-native init AppName

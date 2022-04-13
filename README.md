@@ -45,8 +45,10 @@ Step – 3 :
 
         then download json file and paste it in android/app/
         then next, next and continue to console.
+        
 Step – 4 :
         Follow https://rnfirebase.io/messaging/notifications  -> Handling Interaction
+        
 Step – 5 : 
         in firebase console Go to Engage->Cloud Messaging-> click on Send your first message->  
         Follow the given instruction and you will get your notification 
